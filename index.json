@@ -1,0 +1,11 @@
+{
+  "org": "dbcli",
+  "repo": "pgcli",
+  "versions": [
+    {
+      "commit": "3c3776cf221a0877be52d6ff9d8bda29d0b146e7",
+      "tag": "",
+      "parsed_at": "2026-10-18T06:32:52.709352+00:00"
+    }
+  ]
+}
