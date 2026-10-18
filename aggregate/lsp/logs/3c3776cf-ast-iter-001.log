@@ -1,0 +1,7 @@
+[2026-10-18T06:30:41Z] === AST ITERATION 1 START | repo=dbcli/pgcli sha=3c3776cf ===
+[2026-10-18T06:30:41Z] [iter=1] PHASE START: ast repo=dbcli/pgcli sha=3c3776cf
+[2026-10-18T06:30:41Z] [iter=1] Building AST aggregate chunks
+[2026-10-18T06:31:52Z] [iter=1] AST chunks built count=1 triples=659367
+[2026-10-18T06:31:52Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/3c3776cf221a0877be52d6ff9d8bda29d0b146e7/.complete
+[2026-10-18T06:31:52Z] [iter=1] PHASE END: ast elapsed_s=72 elapsed_min=1.2
+[2026-10-18T06:31:52Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

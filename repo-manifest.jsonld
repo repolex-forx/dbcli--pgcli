@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/dbcli/pgcli/commit/3c3776cf221a0877be52d6ff9d8bda29d0b146e7",
       "git:hexsha": "3c3776cf221a0877be52d6ff9d8bda29d0b146e7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/dbcli/pgcli/commit/422aad8e0f90f1e2b9009b7f4aa60cbc1ff0a407",
